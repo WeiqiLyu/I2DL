@@ -1,0 +1,3 @@
+batch_size: 128
+lr: 0.001
+n_hidden_en: 128
